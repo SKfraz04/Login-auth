@@ -1,0 +1,52 @@
+.login-title {
+  font-size: 50px;
+  font-family: "Poppins", sans-serif;
+}
+.email label {
+  padding-right: 20px;
+  font-size: 21px;
+}
+.email input {
+  padding: 5px 10px;
+  font-size: 20px;
+}
+.password label {
+  padding-right: 20px;
+  font-size: 20px;
+}
+.password input {
+  padding: 5px 10px;
+  font-size: 20px;
+}
+.login-button {
+  padding: 5px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.login-contant {
+  box-shadow: 0 3px 17px rgb(0 0 0 / 0.4);
+  margin-top: 100px;
+}
+.link-btn {
+  padding: 5px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.register-form input {
+  width: 79%;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 20px auto;
+
+}
+.signup-btn {
+  padding: 5px 20px;
+  margin: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.signup h2{
+    font-size: 50px;
+}
